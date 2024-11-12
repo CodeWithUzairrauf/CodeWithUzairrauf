@@ -12,7 +12,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodewithUzairrauf&show_icons=true&theme=radical)]
 
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CodewithUzairrauf.CodewithUzairrauf)
+
+![Welcome Banner]([https://user-images.githubusercontent.com/your_image_link_here](https://user-images.githubusercontent.com/https://avatars.githubusercontent.com/u/173246865?v=4))
+
+![GitHub Snake](https://github.com/CodewithUzairrauf/CodewithUzairrauf/blob/output/github-contribution-grid-snake.svg)
 
 # CodeWithUzairrauf
