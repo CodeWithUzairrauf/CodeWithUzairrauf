@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Reactjs and Nextjs
 - 💬 Ask me about frontend Development anytime
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodewithUzairrauf&show_icons=true&theme=radical)]
 
 
 # CodeWithUzairrauf
